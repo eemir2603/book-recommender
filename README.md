@@ -1,8 +1,5 @@
 # 📚 AI Book Recommendation App
-
-![App Preview](https://via.placeholder.com/800x400.png?text=Book+Recommender+App)
-
-A simple Python-based book recommendation system that uses the Google Books API to fetch and suggest books based on user queries.
+A simple Python-based book recommendation system that uses the Google Books API to fetch and suggest books based on user queries. According to your choices it recommends the book for you.
 
 ## 🚀 Features
 
